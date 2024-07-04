@@ -1,4 +1,4 @@
 # Auto-Password-Generator
 
 
-![My photo] (./result.png)
+![result](result.png)
