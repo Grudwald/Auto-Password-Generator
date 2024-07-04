@@ -1,4 +1,5 @@
-# Auto-Password-Generator
+# Auto Password Generator
 
+## Outcome:
 
 ![result](result.png)
