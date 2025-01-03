@@ -1,5 +1,3 @@
-# Auto Password Generator
-
-### Outcome:
+# Автоматический генератор паролей
 
 ![result](result.png)
